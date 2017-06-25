@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 1b1b50242fda9354ba22fba3865dcf02
+timeCreated: 1432755719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Oreja
+    21300002: Cabeza
+    21300004: Uvas
+    21300006: Pierna
+    21300008: Brazo
+    21300010: AnteBrazo
+    21300012: Pie
+    21300014: Tronco 1
+    21300016: Cuerpo
+    21300018: Cola
+    21300020: Tronco 2
+    21300022: Tronco 3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 110
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Oreja
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 22
+        height: 27
+      alignment: 9
+      pivot: {x: .545998156, y: .218898639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 93
+        height: 82
+      alignment: 9
+      pivot: {x: .323178291, y: .0958309621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Uvas
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 141
+        width: 116
+        height: 85
+      alignment: 9
+      pivot: {x: .585057497, y: .922644198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pierna
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 185
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: .488755971, y: .77962184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brazo
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 184
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: .524094343, y: .883848786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AnteBrazo
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 189
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: .576999843, y: .853011012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pie
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 203
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: .317846686, y: .77245152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco 1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 175
+        width: 274
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: .44992885, y: .387824595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cola
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 111
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: .39240101, y: .372921139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco 2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 94
+        width: 546
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tronco 3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 824
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
